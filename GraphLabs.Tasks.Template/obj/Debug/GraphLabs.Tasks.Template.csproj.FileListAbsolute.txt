@@ -1,0 +1,448 @@
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\CodeContracts\GraphLabs.Tasks.Template.noReferenceAssembly
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.dll.config
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.pdb
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\AppManifest.xaml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.xap
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\DistanceMatrixTestPage.html
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Autofac.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Castle.Core.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.Utils.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.CommonUI.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.UIComponents.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Contract.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Utils.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Moq.Silverlight.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.ServiceModel.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Data.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Autofac.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Castle.Core.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.CommonUI.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.UIComponents.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Utils.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\Moq.Silverlight.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Data.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\App.g.cs
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\TaskTemplate.g.cs
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.g.resources
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.rewritten
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.pdb
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\GraphLabs.Tasks.Template\obj\Debug\XapCacheFile.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\CodeContracts\GraphLabs.Tasks.Template.noReferenceAssembly
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.dll.config
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\AppManifest.xaml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Template.xap
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\DistanceMatrixTestPage.html
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Autofac.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Castle.Core.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.CommonUI.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.UIComponents.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Tasks.Contract.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Moq.Silverlight.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.ServiceModel.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.DataForm.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Theming.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Data.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Autofac.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Castle.Core.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Common.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.CommonUI.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Graphs.UIComponents.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\GraphLabs.Utils.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\Moq.Silverlight.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\System.Windows.Data.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\App.g.cs
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\TaskTemplate.g.cs
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.g.resources
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.rewritten
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\GraphLabs.Tasks.Template.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 25.04(2)\GraphLabs.Tasks.Template\obj\Debug\XapCacheFile.xml

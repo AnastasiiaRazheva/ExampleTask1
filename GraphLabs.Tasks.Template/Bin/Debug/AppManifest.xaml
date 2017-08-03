@@ -1,0 +1,47 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="GraphLabs.Tasks.Planarity" EntryPointType="GraphLabs.Tasks.Planarity.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.OutOfBrowserSettings>
+    <OutOfBrowserSettings ShortName="Приложение GraphLabs.Tasks.Planarity" EnableGPUAcceleration="True" ShowInstallMenuItem="False">
+      <OutOfBrowserSettings.Blurb>Приложение Tasks.Planarity на рабочем столе: дома, на работе, в пути.</OutOfBrowserSettings.Blurb>
+      <OutOfBrowserSettings.WindowSettings>
+        <WindowSettings Title="Приложение GraphLabs.Tasks.Planarity" WindowStyle="BorderlessRoundCornersWindow" />
+      </OutOfBrowserSettings.WindowSettings>
+      <OutOfBrowserSettings.SecuritySettings>
+        <SecuritySettings ElevatedPermissions="NotRequired" />
+      </OutOfBrowserSettings.SecuritySettings>
+      <OutOfBrowserSettings.Icons />
+    </OutOfBrowserSettings>
+  </Deployment.OutOfBrowserSettings>
+  <Deployment.Parts>
+    <AssemblyPart x:Name="GraphLabs.Tasks.Planarity" Source="GraphLabs.Tasks.Planarity.dll" />
+    <AssemblyPart x:Name="Autofac" Source="Autofac.dll" />
+    <AssemblyPart x:Name="Castle.Core" Source="Castle.Core.dll" />
+    <AssemblyPart x:Name="GraphLabs.Common" Source="GraphLabs.Common.dll" />
+    <AssemblyPart x:Name="GraphLabs.Common.Utils" Source="GraphLabs.Common.Utils.dll" />
+    <AssemblyPart x:Name="GraphLabs.CommonUI" Source="GraphLabs.CommonUI.dll" />
+    <AssemblyPart x:Name="GraphLabs.Graphs" Source="GraphLabs.Graphs.dll" />
+    <AssemblyPart x:Name="GraphLabs.Graphs.UIComponents" Source="GraphLabs.Graphs.UIComponents.dll" />
+    <AssemblyPart x:Name="GraphLabs.Tasks.Contract" Source="GraphLabs.Tasks.Contract.dll" />
+    <AssemblyPart x:Name="GraphLabs.Utils" Source="GraphLabs.Utils.dll" />
+    <AssemblyPart x:Name="Moq.Silverlight" Source="Moq.Silverlight.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.ServiceModel" Source="System.ServiceModel.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.DataForm.Toolkit" Source="System.Windows.Controls.Data.DataForm.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data" Source="System.Windows.Controls.Data.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.Input" Source="System.Windows.Controls.Data.Input.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Data.Toolkit" Source="System.Windows.Controls.Data.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.DataVisualization.Toolkit" Source="System.Windows.Controls.DataVisualization.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Input.Toolkit" Source="System.Windows.Controls.Input.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Layout.Toolkit" Source="System.Windows.Controls.Layout.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Navigation" Source="System.Windows.Controls.Navigation.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Theming.Toolkit" Source="System.Windows.Controls.Theming.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Toolkit" Source="System.Windows.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Data" Source="System.Windows.Data.dll" />
+    <AssemblyPart Source="ru/System.ComponentModel.DataAnnotations.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Controls.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Controls.Data.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Controls.Data.Input.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Controls.Navigation.resources.dll" />
+    <AssemblyPart Source="ru/System.Windows.Data.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,45 @@
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe.config
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.pdb
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\Autofac.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Common.Utils.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.dll
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\Autofac.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.xml
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Visual Studio 2015\Projects\TaskTemplate\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe.config
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\Autofac.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Common.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\Autofac.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe.config
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\DebugVariantDataGenerator.pdb
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\Autofac.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Common.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.dll
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\Autofac.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Graphs.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\bin\Debug\GraphLabs.Utils.MsBuild.xml
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.exe
+C:\Users\Yana\Documents\Учеба\уир\TaskTemplate 28.07.2\DebugVariantDataGenerator\obj\Debug\DebugVariantDataGenerator.pdb

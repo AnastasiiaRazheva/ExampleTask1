@@ -1,0 +1,45 @@
+﻿using System.Collections.Generic;
+using GraphLabs.CommonUI;
+using GraphLabs.CommonUI.Configuration;
+using GraphLabs.Tasks.Planarity.Configuration;
+
+
+namespace GraphLabs.Tasks.Planarity
+{
+    /// <summary> Planarity app </summary>
+    public partial class App : TaskApplicationBase
+    {
+        /// <summary> Получить конфигураторы сервисов </summary>
+        private static IEnumerable<IDependencyResolverConfigurator> GetConfigurators()
+        {
+            // Wcf-сервисы
+            yield return GetWcfServicesConfigurator();
+            
+            // Построитель View - сделано так, потому что в Xaml Silverlight нельзя подсунуть Generic
+            yield return new ViewBuilderConfigurator<ViewBuilder<Planarity, PlanarityViewModel>>();
+
+            yield return new CommonItemsConfigurator();
+        }
+
+        /// <summary> Получить конфигуратор WCF-сервисов </summary>
+        /// <returns>
+        /// Если приложение запущено в браузере, то честно взаимодействуем с сайтом.
+        /// Если запущено вне бразера - используется специальный эмулятор.
+        /// </returns>
+        private static IDependencyResolverConfigurator GetWcfServicesConfigurator()
+        {
+            return Current.IsRunningOutOfBrowser 
+                ? (IDependencyResolverConfigurator)new MockedWcfServicesConfigurator()
+                                                   {
+                                                       GettingVariantDelay = 500
+                                                   }
+                : (IDependencyResolverConfigurator)new WcfServicesConfigurator();
+        }
+
+        /// <summary> Planarity app </summary>
+        public App() : base(GetConfigurators())
+        {
+            InitializeComponent();
+        }
+    }
+}
