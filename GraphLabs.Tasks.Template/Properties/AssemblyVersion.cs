@@ -11,7 +11,7 @@
 using System.Reflection;
 
 #if DEBUG
-[assembly: AssemblyVersion("0.0.33.*")]
+[assembly: AssemblyVersion("0.0.3.*")]
 #else
-[assembly: AssemblyVersion("0.0.33.*")]
+[assembly: AssemblyVersion("0.0.3.*")]
 #endif

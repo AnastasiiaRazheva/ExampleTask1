@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GraphLabs.Tasks.Planarity</name>
+    </assembly>
+    <members>
+        <member name="T:GraphLabs.Tasks.Planarity.App">
+            <summary> Planarity app </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.App.GetConfigurators">
+            <summary> Получить конфигураторы сервисов </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.App.GetWcfServicesConfigurator">
+            <summary> Получить конфигуратор WCF-сервисов </summary>
+            <returns>
+            Если приложение запущено в браузере, то честно взаимодействуем с сайтом.
+            Если запущено вне бразера - используется специальный эмулятор.
+            </returns>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.App.#ctor">
+            <summary> Planarity app </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GraphLabs.Tasks.Planarity.Configuration.MockedWcfServicesConfigurator">
+            <summary> Конфигуратор заглушек wcf-сервисов </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.Configuration.MockedWcfServicesConfigurator.GetDebugVariant">
+            <summary> Сгенерировать отладочный вариант </summary>
+        </member>
+        <member name="T:GraphLabs.Tasks.Planarity.PlanarityViewModel">
+            <summary> ViewModel для Planarity </summary>
+        </member>
+        <member name="T:GraphLabs.Tasks.Planarity.PlanarityViewModel.State">
+            <summary> Текущее состояние </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.State.Nothing">
+            <summary> Пусто </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.State.MoveVertex">
+            <summary> Перемещение вершин </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.State.AddEdge1">
+            <summary> Добавление связи (этап 1) </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.State.AddEdge2">
+            <summary> Добавление связи (этап 2) </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel._state">
+            <summary> Текущее состояние </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel._allowedGeneratorVersions">
+            <summary> Допустимые версии генератора, с помощью которого сгенерирован вариант </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.AllowedGeneratorVersions">
+            <summary> Допустимые версии генератора </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.IsLoadingDataProperty">
+            <summary> Идёт загрузка данных? </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.IsMouseVerticesMovingEnabledProperty">
+            <summary> Разрешено перемещение вершин? </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.ToolBarCommandsProperty">
+            <summary> Команды панели инструментов</summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.GivenGraphProperty">
+            <summary> Выданный в задании граф </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.IsLoadingData">
+            <summary> Идёт загрузка данных? </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.IsMouseVerticesMovingEnabled">
+            <summary> Разрешено перемещение вершин? </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.ToolBarCommands">
+            <summary> Команды панели инструментов </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.GivenGraph">
+            <summary> Выданный в задании граф </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.VertVisColProperty">
+            <summary> Вершины из визуализатора </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.VertVisCol">
+            <summary> Вершины из визуализатора </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.VertexClickCmdProperty">
+            <summary> Клик по вершине </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.OnLoadedCmdProperty">
+            <summary> Загрузка silvelight-модуля выполнена </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.OnLoadedCmd">
+            <summary> Загрузка silvelight-модуля выполнена </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.VertexClickCmd">
+            <summary> Клик по вершине </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.VisualizerClickCmdProperty">
+            <summary> Клик по визуализатору </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.VisualizerClickCmd">
+            <summary> Клик по визуализатору </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.PlanarityViewModel.MatrixProperty">
+            <summary> Заполняемая студентом матрица </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.PlanarityViewModel.Matrix">
+            <summary> Заполняемая студентом матрица </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.PlanarityViewModel.OnInitialized">
+            <summary> Инициализация </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.PlanarityViewModel.OnTaskLoadingComlete(GraphLabs.Common.VariantDownloadedEventArgs)">
+            <summary> Задание загружено </summary>
+            <param name="e"></param>
+        </member>
+        <member name="T:GraphLabs.Tasks.Planarity.Planarity">
+            <summary> Поиск компонент сильной связности, построение конденсата </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.Planarity.VertexClickCommandProperty">
+            <summary> Клик по вершине </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.Planarity.VertexClickCommand">
+            <summary> Клик по вершине </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.Planarity.VisualizerClickCommandProperty">
+            <summary> Клик по визуализатору </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.Planarity.VisualizerClickCommand">
+            <summary> Клик по визуализатору </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.Planarity.OnLoadedCommandProperty">
+            <summary> Загрузка silvelight-модуля выполнена </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.Planarity.OnLoadedCommand">
+            <summary> Загрузка silvelight-модуля выполнена </summary>
+        </member>
+        <member name="F:GraphLabs.Tasks.Planarity.Planarity.VertVisProperty">
+            <summary> Вершины из визуализатора </summary>
+        </member>
+        <member name="P:GraphLabs.Tasks.Planarity.Planarity.VertVis">
+            <summary> Вершины из визуализатора </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.Planarity.#ctor">
+            <summary> Ctor. </summary>
+        </member>
+        <member name="M:GraphLabs.Tasks.Planarity.Planarity.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>
